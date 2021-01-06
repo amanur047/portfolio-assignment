@@ -73,34 +73,31 @@ margin-left:400px;
 margin-top: 100px;
 padding:30px;
 color: white;
-font-size: 32px;
 width: 606px;
 height: 125px;
 
 }
 
-
 #Work-inquiry 
 {
-   width:60%
+   width:60%;
     
 }
+
 #chat
 {
-   
+    color: white;
     background-image: linear-gradient(45deg,lightsalmon,tomato);
     
     text-decoration: none;
     font-size: medium;
    
-    margin: 120px;
+    margin: 150px;
     padding:20px;
-    
-    
-  
 }
 footer{
     text-align: center;
+    text-decoration: none;
 }
 .icons
 {
@@ -112,3 +109,4 @@ height: 20px;
 .icons img{
     height: 30px;
 }
+
