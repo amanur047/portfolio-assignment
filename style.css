@@ -1,0 +1,114 @@
+body
+{
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: #363958;
+   
+    margin: 0;
+}
+p{
+    font-family: roboto;
+    color: black;
+    font-size: 16px;
+    line-height: 24px;
+}
+.orange-hightlight{
+    color: orange;
+}
+.link-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 6px;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section
+{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.project
+{
+    text-align: center;
+    background: #f2f5f4;
+    padding-bottom: 100px;
+}
+.single-project
+{
+    
+    float: left;
+    width: 25%;
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    margin-left: 5%;
+    padding-left: 2%;
+
+
+}
+.single-project img{
+    width: 343.54px;
+height: 213.23px;
+}
+
+.work{
+    
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+border-radius: 30px;
+
+
+margin-left:400px;
+margin-top: 100px;
+padding:30px;
+color: white;
+font-size: 32px;
+width: 606px;
+height: 125px;
+
+}
+
+
+#Work-inquiry 
+{
+   width:60%
+    
+}
+#chat
+{
+   
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    
+    text-decoration: none;
+    font-size: medium;
+   
+    margin: 120px;
+    padding:20px;
+    
+    
+  
+}
+footer{
+    text-align: center;
+}
+.icons
+{
+    display: inline;
+    width: 40px;
+height: 20px;
+
+}
+.icons img{
+    height: 30px;
+}
